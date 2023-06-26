@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livvio/static/css/main.b572f046.css",
+    "main.js": "/livvio/static/js/main.0449c068.js",
+    "static/js/787.cf2266dd.chunk.js": "/livvio/static/js/787.cf2266dd.chunk.js",
+    "index.html": "/livvio/index.html",
+    "main.b572f046.css.map": "/livvio/static/css/main.b572f046.css.map",
+    "main.0449c068.js.map": "/livvio/static/js/main.0449c068.js.map",
+    "787.cf2266dd.chunk.js.map": "/livvio/static/js/787.cf2266dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b572f046.css",
+    "static/js/main.0449c068.js"
+  ]
+}
